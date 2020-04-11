@@ -12,3 +12,16 @@ I wanted to have a wireless shortcut command sending device using wemos d1 mini 
 3. upload WeRemote.ino code into your wemos d1 mini or  nodemcu.
 4. power up nodemcu and see the magic. 
 
+
+
+
+
+
+
+
+
+
+
+
+###### Tags :
+wemos d1 mini nodemcu esp8266 keyboard mouse c# visual studio wireless remote HID usb host
