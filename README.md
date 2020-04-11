@@ -25,4 +25,4 @@ I wanted to have a wireless shortcut command sending device using wemos d1 mini 
 
 
 ###### Tags :
-wemos d1 mini nodemcu esp8266 keyboard mouse c# visual studio wireless remote HID usb host
+wemos d1 mini nodemcu esp8266 keyboard mouse c# visual studio wireless remote HID usb host wifi controller pc controller remote
