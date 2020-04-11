@@ -8,7 +8,7 @@ I wanted to have a wireless shortcut command sending device using wemos d1 mini 
 
 ##### How to use
 1. Open WeRemote.exe.
-![]/Images/WeRemote_server.PNG
+![](Images/WeRemote_server.PNG)
 2. press start button to start a tcp server.
 3. upload WeRemote.ino code into your wemos d1 mini or  nodemcu.
 4. power up nodemcu and see the magic. 
