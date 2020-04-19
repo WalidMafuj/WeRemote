@@ -1,0 +1,15 @@
+C:\Users\Walid\source\repos\WeRemote\WeRemote\bin\Debug\WeRemote.exe.config
+C:\Users\Walid\source\repos\WeRemote\WeRemote\bin\Debug\WeRemote.exe
+C:\Users\Walid\source\repos\WeRemote\WeRemote\bin\Debug\WeRemote.pdb
+C:\Users\Walid\source\repos\WeRemote\WeRemote\bin\Debug\InputManager.dll
+C:\Users\Walid\source\repos\WeRemote\WeRemote\bin\Debug\SimpleTCP.dll
+C:\Users\Walid\source\repos\WeRemote\WeRemote\bin\Debug\WindowsInput.dll
+C:\Users\Walid\source\repos\WeRemote\WeRemote\bin\Debug\WindowsInput.xml
+C:\Users\Walid\source\repos\WeRemote\WeRemote\obj\Debug\WeRemote.csprojAssemblyReference.cache
+C:\Users\Walid\source\repos\WeRemote\WeRemote\obj\Debug\WeRemote.Form1.resources
+C:\Users\Walid\source\repos\WeRemote\WeRemote\obj\Debug\WeRemote.Properties.Resources.resources
+C:\Users\Walid\source\repos\WeRemote\WeRemote\obj\Debug\WeRemote.csproj.GenerateResource.cache
+C:\Users\Walid\source\repos\WeRemote\WeRemote\obj\Debug\WeRemote.csproj.CoreCompileInputs.cache
+C:\Users\Walid\source\repos\WeRemote\WeRemote\obj\Debug\WeRemote.csproj.CopyComplete
+C:\Users\Walid\source\repos\WeRemote\WeRemote\obj\Debug\WeRemote.exe
+C:\Users\Walid\source\repos\WeRemote\WeRemote\obj\Debug\WeRemote.pdb
